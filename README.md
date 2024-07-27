@@ -1,7 +1,7 @@
 
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Mohammad Huzaif Shah </font></h1>
-<h3 align="center"><font face="Arial">Huzaif is a final year B.Tech engineering student who is passionate about cloud and devops. Feel free to reach out for any Freelance Projects</font></h3>
+<h3 align="center"><font face="Arial">Huzaif is a passionate Devops and Cloud Engineer. Feel free to reach out for any Freelance Projects</font></h3>
 
 
 

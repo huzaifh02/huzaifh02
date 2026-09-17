@@ -47,6 +47,8 @@
 
 ### Writing
 
+- [Kubernetes Traffic Skew: Why One Pod Gets Hot While Others Sit Idle](https://www.kubeblogs.com/kubernetes-traffic-skew-why-one-pod-gets-hot-while-others-sit-idle/) — reproduced hot-pod skew on EKS and the 3-tier fix
+- [We Built an AI Agent for DevOps. Here's What Actually Worked](https://www.kubeblogs.com/ai-agent-for-devops-what-actually-worked/) — read-only Slack agent for lookups and first-pass incident triage
 - [Portfolio](https://huzaifh02.github.io/) — selected Kubernetes, CI/CD, and cloud work
 - [KubeBlogs](https://www.kubeblogs.com/) — production DevOps notes
 - [Hashnode](https://huzaifh02.hashnode.dev/) — longer-form project writeups
